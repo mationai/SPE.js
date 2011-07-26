@@ -1,7 +1,7 @@
 Simple Physics Engine in Javascript
 
 Features:
-- Standalone, requires no external libraries.
+- Standalone, requires no external libraries or plugins.
 - Easy grouping of objects and collision policies.
 - Can use canvas, SVG, WebGL, or even DHTML (demo #1 uses canvas).
 
@@ -21,11 +21,10 @@ Group groups particles with similar attributes (what's collidable with what).
 
 See each file's documentation for more info.
 
-Run the demos to see it in action.
-
-Look at the demos sources for usage.
+To generate new single file source spe.js after modifications, install python and run:
+python generate_spe.py
 
 
 Demos:
 
-demo1-canvas.html - simple demo using canvas.
+demo1-canvas.html - simple demo using canvas, <a href="http://johnleung.com/projects/spe/demo1-canvas.html">see it live here.</a>
