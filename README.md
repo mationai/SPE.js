@@ -1,13 +1,14 @@
-Simple Physics Engine in Javascript
+### Simple Physics Engine in Javascript
 
-Features:
-- Standalone, requires no external libraries or plugins.
-- Easy grouping of objects and collision policies.
-- Can use canvas, SVG, WebGL, or even DHTML (demo #1 uses canvas).
+#### Features:
+
+- Standalone, requires no external libraries or plugins
+- Easy grouping of objects and collision policies
+- Can use canvas; SVG, WebGL, or even DHTML should be doable
 
 
-Overview:
-
+#### Overview:
+  
 The Physics Engine is made up of a World, which contains Groups and Particles.
 
 The World can set global attributes such as gravity and forces.
@@ -25,6 +26,6 @@ To generate new single file source spe.js after modifications, install python an
 python generate_spe.py
 
 
-Demos:
+#### Demos:
 
 demo1-canvas.html: simple demo using canvas - <a href="http://johnleung.com/projects/spe/demo1-canvas.html">live demo</a>.
