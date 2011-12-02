@@ -28,4 +28,4 @@ python generate_spe.py
 
 #### Demos:
 
-demo1-canvas.html: simple demo using canvas - <a href="http://johnleung.com/projects/spe/demo1-canvas.html">live demo</a>.
+demo1-canvas.html: simple demo using canvas - <a href="http://johnleung.com/demos/spe/demo1-canvas.html">live demo</a>.
