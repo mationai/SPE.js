@@ -28,4 +28,4 @@ python generate_spe.py
 
 #### Demos:
 
-demo1-canvas.html: simple demo using canvas - <a href="http://johnleung.com/demos/spe/demo1-canvas.html">live demo</a>.
+using canvas as renderer - <a href="http://johnleung.com/project/simple-physics-engine/">live demo</a>.
